@@ -1,3 +1,1 @@
-Index.
-
-#Chapter one.
+Головна.
